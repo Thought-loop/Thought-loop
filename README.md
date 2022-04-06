@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming a junior backend software developer
 - 🌱 I’m currently learning Java at a coding bootcamp
 - 💞️ I’m looking to collaborate on anyhting to grow my skills and experience
-- 📫 How to reach me slide into the dms
 
 <!---
 Thought-loop/Thought-loop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
